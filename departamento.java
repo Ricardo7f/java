@@ -1,5 +1,3 @@
-package Ricardo;
-
 public class departamento {
 
 String sigla;
